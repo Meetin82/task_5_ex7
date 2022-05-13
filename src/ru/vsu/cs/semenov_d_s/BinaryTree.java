@@ -1,10 +1,7 @@
-package ru.vsu.cs.course1.tree;
+package ru.vsu.cs.semenov_d_s;
 
 import java.awt.Color;
 import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
 
 /**
  * Интерфейс для двоичного дерева с реализацияей по умолчанию различных обходов

@@ -1,4 +1,4 @@
-package ru.vsu.cs.course1.tree.demo;
+package ru.vsu.cs.semenov_d_s.demo;
 
 import java.awt.EventQueue;
 import static java.awt.Frame.MAXIMIZED_BOTH;

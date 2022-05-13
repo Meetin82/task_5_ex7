@@ -1,8 +1,8 @@
-package ru.vsu.cs.course1.tree.bst;
+package ru.vsu.cs.semenov_d_s.bst;
 
 import java.util.function.Function;
-import ru.vsu.cs.course1.tree.SimpleBinaryTree;
-import ru.vsu.cs.course1.tree.BinaryTree;
+import ru.vsu.cs.semenov_d_s.SimpleBinaryTree;
+import ru.vsu.cs.semenov_d_s.BinaryTree;
 
 /**
  * Класс, реализующий простое (наивное) дерево поиска

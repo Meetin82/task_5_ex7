@@ -1,4 +1,4 @@
-package ru.vsu.cs.course1.tree;
+package ru.vsu.cs.semenov_d_s;
 
 import java.awt.*;
 import java.io.File;

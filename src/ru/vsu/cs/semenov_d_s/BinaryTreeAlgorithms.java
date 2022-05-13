@@ -1,4 +1,4 @@
-package ru.vsu.cs.course1.tree;
+package ru.vsu.cs.semenov_d_s;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -172,7 +172,6 @@ public class BinaryTreeAlgorithms {
      */
     public static <T> Iterable<T> postOrderValues(BinaryTree.TreeNode<T> treeNode) {
         return () -> {
-            // Реализация TreeNode<T>, где left = right = null
             BinaryTree.TreeNode<T> emptyNode = () -> null;
 
             Stack<BinaryTree.TreeNode<T>> stack = new Stack<>();
